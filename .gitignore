@@ -1,0 +1,27 @@
+# Python 자동 생성 파일
+__pycache__/
+*.py[cod]
+
+# 가상환경
+.venv/
+venv/
+env/
+
+# Jupyter Notebook 임시 저장
+.ipynb_checkpoints/
+
+# 비밀번호와 API 키
+.env
+.env.*
+!.env.example
+
+# 개인 편집기 설정
+.vscode/
+.idea/
+
+# 운영체제 자동 생성 파일
+.DS_Store
+Thumbs.db
+
+# 로그
+*.log
